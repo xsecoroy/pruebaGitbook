@@ -1,15 +1,8 @@
-:::info
-Este es un mensaje de información general.
-:::
+> .[!NOTE]
+> Aqui tienes una nota especial
 
-:::success
-La operación se completó correctamente.
-:::
+> .[!TIP]
+> Aqui tienes un consejo
 
-:::warning
-Ten cuidado con este paso, puede ser arriesgado.
-:::
-
-:::danger
-Error crítico. Debes corregir esto de inmediato.
-:::
+> .[!IPORTANT]
+> Este mensaje es importante
