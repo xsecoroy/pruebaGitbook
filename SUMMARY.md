@@ -6,6 +6,6 @@
 
 * [Capítulo 1](capitulo1.md)
 
-## Capitulo 2
+## Alertas
 
-* [Capítulo 2](capitulo1.md)
+* [Alertas](alertas.md)
