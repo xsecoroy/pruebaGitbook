@@ -1,8 +1,8 @@
-> .[!NOTE].
-> Aqui tienes una nota especial
+> [!NOTE]
+> Aquí tienes una nota especial.
 
-> .[!TIP].
-> Aqui tienes un consejo
+> [!TIP]
+> Aquí tienes un consejo.
 
-> .[!IPORTANT].
-> Este mensaje es importante
+> [!IMPORTANT]
+> Este mensaje es importante.
