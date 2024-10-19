@@ -2,12 +2,8 @@
 
 * [Bienvenido](README.md)
 
-## Introducción
-* [Introducción](introduccion/README.md)
-* [Introducción](introduccion/introduccion.md)
-
 ## Documentación y Control de versiones
-* [GIT](documentacion/git.md)
+* [GITBOOK](https://docs.gitbook.com/)
 * [Documentación](documentacion/markdown.md)
 
 ## Capitulo 1
