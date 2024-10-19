@@ -1,5 +1,10 @@
 Primer capitulo
 
+## Títulos (# y ##):
+# y ## son elementos para definir títulos y subtítulos.
+Un # genera un título de nivel 1 (como un encabezado principal).
+Dos ## generan un título de nivel 2 (subtítulo).
+
 # Encabezado 1
 ## Encabezado 2
 ### Encabezado 3
@@ -7,8 +12,20 @@ Primer capitulo
 ##### Encabezado 5
 ###### Encabezado 6
 
-Este es un párrafo con  
-un salto de línea.
+## Listas con viñetas (*):
+
+El asterisco (*) indica que se está creando una lista con viñetas.
+Ejemplo:
+* [Bienvenido](README.md): Esto es un elemento de lista que contiene un enlace a un archivo llamado README.md
+
+
+## Enlaces en Markdown:
+Los enlaces tienen el formato [Texto del enlace](URL o ruta del archivo):
+[Texto]: Es el texto visible en el enlace.
+(ruta/archivo.md): Es el archivo o página a la que apunta el enlace.
+Ejemplos:
+[Introducción](introduccion/README.md): El texto visible será "Introducción", y al hacer clic, llevará al archivo README.md que está en la carpeta introduccion.
+[GIT](documentacion/git.md): El texto visible es "GIT", y enlaza al archivo git.md en la carpeta documentacion.
 
 *Texto en cursiva*
 **Texto en negrita**
