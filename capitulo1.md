@@ -1,34 +1,25 @@
-EXPLICACIÓN MARKDOWN
+PRACTICA 1 - SERVIDOR
 
 
-# Títulos (# y ##):
-\# y \#\# son elementos para definir títulos y subtítulos.
 
-Un # genera un título de nivel 1 (como un encabezado principal).
+1 - Cambiar el nombre en Ubuntu:
 
-Dos ## generan un título de nivel 2 (subtítulo).
+![Texto alternativo](./imagenes/fototrabajo2.png)
 
-## Lista títulos
-\# Encabezado 1
 
-\#\# Encabezado 2
+2 - 
+Configurar tarjetas de red.
 
-\#\#\# Encabezado 3
+Ejecuto ip a
 
-\#\#\#\# Encabezado 4
 
-\#\#\#\#\# Encabezado 5
 
-\#\#\#\#\#\# Encabezado 6
+•	Disponemos de 3 tarjetas. Las dos primeras deben usar dhcp. La tercera es la que está en la red sanh3
+•	Configura tu tarjeta de red usando la dirección 192.168.X.1/24. ( Yo soy el 2 ).
 
-# Listas con viñetas (*):
-
-El asterisco (*) indica que se está creando una lista con viñetas.
-
-Ejemplo del indice de SUMMARY.md:
 
 * [Bienvenido](README.md): Esto es un elemento de lista que contiene un enlace a un
- 
+
 archivo llamado README.md. **ABAJO** sigue la explicación de enlaces.
 
 # Enlaces en Markdown indice:
@@ -94,10 +85,10 @@ El símbolo de mayor (>) se usa para crear citas en bloque. Cualquier texto prec
 --- 
 
 > **💡 NOTA:**
-> Este es un bloque de nota.
+> Este es un bloque de nota con cita >
 
 > **⚠️ ADVERTENCIA:**
-> Esta es una advertencia.
+> Esta es una advertencia con cita >
 
 # Código
 Aquí hay un ejemplo de código:
